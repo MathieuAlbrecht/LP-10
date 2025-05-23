@@ -12,3 +12,6 @@ Ich möchte an meiner Portfoliowebseite arbeiten.
 ## 16.05.25
 - [ ] Projektdetails ausfüllen
 - [ ] über mich ausfüllen
+
+## 23.05.25
+- [ ] Portfoliowebseite Fehler beheben
