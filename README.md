@@ -10,8 +10,11 @@ Ich möchte an meiner Portfoliowebseite arbeiten.
 - [x] Hintergrund implementieren
 
 ## 16.05.25
-- [ ] Projektdetails ausfüllen
-- [ ] über mich ausfüllen
+- [x] Projektdetails ausfüllen
+- [x] über mich ausfüllen
 
 ## 23.05.25
-- [ ] Portfoliowebseite Fehler beheben
+- [x] Portfoliowebseite Fehler beheben
+
+## 06.06.25
+- [x] KI Chatbot mit Deepseek und Gemini als Webapplikation erstellen
