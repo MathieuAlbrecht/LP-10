@@ -18,3 +18,6 @@ Ich möchte an meiner Portfoliowebseite arbeiten.
 
 ## 06.06.25
 - [x] KI Chatbot mit Deepseek und Gemini als Webapplikation erstellen
+
+## 13.05.25
+- [ ] KI Chatbot Claude und Chatgpt hinzufügen via API
